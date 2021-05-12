@@ -2,7 +2,7 @@
     background: linear-gradient(0deg, red, orange, yellow, green, blue, purple);
      background-size: 400% 400%; 
     height: 100vh;
-    /* animation: x 8s ease; */
+    animation: x 8s ease; 
     animation-iteration-count: infinite;
 }
 
